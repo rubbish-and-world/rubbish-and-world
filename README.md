@@ -10,7 +10,7 @@
 - 💬 Ask me about ...
 
 
-[![rubbishbin](https://github-readme-stats.vercel.app/api?username=rubbish-and-world&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![rubbishbin](https://github-readme-stats.vercel.app/api?username=rubbish-and-world&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubbish-and-world&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
