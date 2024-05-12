@@ -12,7 +12,7 @@
 [![rubbishbin](https://github-readme-stats.vercel.app/api?username=rubbish-and-world&show_icons=true&theme=ambient_gradient&include_all_commits=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubbish-and-world&layout=donut&theme=ambient_gradient&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubbish-and-world&layout=donut&theme=ambient_gradient&langs_count=8&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rubbish-and-world/rubbish-and-world** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
