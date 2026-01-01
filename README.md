@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+🐒
 
-
+<!--
 
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning nothing
@@ -14,7 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubbish-and-world&layout=donut&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
+
 **rubbish-and-world/rubbish-and-world** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
